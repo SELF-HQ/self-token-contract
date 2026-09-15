@@ -1,0 +1,13 @@
+{
+  "solc": "0.8.24+commit.e11b9ed9",
+  "optimizer": {
+    "enabled": true,
+    "runs": 200
+  },
+  "evmVersion": "cancun",
+  "openzeppelin": "5.4.0",
+  "creationBytecodeHash": "0xb09e697fc7e9fbc304dd9392d04d3fd82c0a6616d9cdb476869dec4fe52821f8",
+  "runtimeBytecodeHash": "0xc0914a78134313fd036a70114bda7184828df6864756f5302e2b20c762ab24ec",
+  "creationBytes": 2865,
+  "runtimeBytes": 1816
+}
